@@ -191,6 +191,7 @@ return {
         -- ts_ls = {},
         --
 
+        elixirls = {},
         lua_ls = {
           -- cmd = {...},
           -- filetypes = { ...},
